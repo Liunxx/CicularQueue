@@ -1,0 +1,2 @@
+# CicularQueue
+Your job is to implement a queue using a circular array. In addition to that, you must keep track of the sum of the elements currently inside the queue. Your program will process two types of commands. The first is of the form “a X”, where “a” denotes adding to the back of queue and X is the number you want to add. The second is of the form “r”, which stands for removing an element from the front of the queue.
